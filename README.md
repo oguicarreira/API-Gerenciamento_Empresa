@@ -1,5 +1,5 @@
 # Gerenciamento_Empresa
-API de gestão de empresa (estoques, funcionário, veículos, certificados) usando Python, Flask e PostgreSQL
+API de gestão de empresa (estoques, funcionário, veículos, certificados) usando Python, Flask e PostgreSQL em Clean Archtecture
 
 ## Preparando o ambiente virtual
 Criar a pasta do projeto, colar o arquivo 'main.py' e abrir no seu editor de código;
